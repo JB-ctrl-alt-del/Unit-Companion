@@ -4,7 +4,7 @@ A pocket AI companion that lives on your desktop. Unit has an animated face, moo
 
 | Normal mode | Alert mode |
 |---|---|
-| ![Unit in normal mode](screenshot.jpg) | ![Unit in alert mode](screenshot-alert.jpg) |
+| ![Unit in normal mode](screenshot..png) | ![Unit in alert mode](screenshot.png) |
 
 ## What it does
 
